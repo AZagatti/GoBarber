@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GoBarber API" src="https://res.cloudinary.com/zagatti/image/upload/v1583093721/readme/gobarber-logo_mtbabd.png" />
+    <img alt="GoBarber" src="https://res.cloudinary.com/zagatti/image/upload/v1583104797/readme/logo-readme_likdsf.png" />
     <br>
     GoBarber 💈 
 </h1>
