@@ -9,6 +9,6 @@ export default {
     pass: MAIL_PASS,
   },
   default: {
-    from: 'Equipe GoBarbar <noreplay@gobarber.com>',
+    from: 'Equipe GoBarbar <noreply@gobarber.com>',
   },
 };
