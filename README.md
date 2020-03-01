@@ -32,7 +32,7 @@
 This is a API of the final project of the [Rocketseat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) that was developed with the following technologies:
 
 <details>
-  <summary>:info:  See more about API technologies</summary>
+  <summary>:information_source:  See more about API technologies</summary>
 
 -  [Bcrypt](https://www.npmjs.com/package/bcrypt)
 -  [Bee Queue](https://www.npmjs.com/package/bcrypt)
