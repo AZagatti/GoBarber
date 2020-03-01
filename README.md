@@ -32,7 +32,7 @@
 This is a API of the final project of the [Rocketseat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) that was developed with the following technologies:
 
 <details>
-  <summary>ℹ  See more about API technologies</summary>
+  <summary>:info:  See more about API technologies</summary>
 
 -  [Bcrypt](https://www.npmjs.com/package/bcrypt)
 -  [Bee Queue](https://www.npmjs.com/package/bcrypt)
@@ -65,32 +65,3 @@ This project is under the MIT license. See the [LICENSE](https://github.com/AZag
 ---
 
 Made with 💟  by André Zagatti 👋  [Talk to me!](https://www.linkedin.com/in/andr%C3%A9-luis-zagatti-adorna/)
-
-<style>
-
-details {
-    border: 0.5px solid #aaa;
-    border-radius: 2px;
-    padding: .5em .5em 0;
-}
-
-details summary::-webkit-details-marker {
-  display:none;
-}
-
-summary {
-    font-weight: bold;
-    margin: -.5em -.5em 0;
-    padding: .5em;
-}
-
-details[open] {
-    padding: .5em;
-}
-
-details[open] summary {
-    border-bottom: 0.5px solid #aaa;
-    margin-bottom: .5em;
-}
-
-</style>
