@@ -29,7 +29,7 @@
 
 ## 🖥 API Technologies
 
-This is a API of the final project of the [Rocketseat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) that was developed with the following technologies:
+This is an API created in [Rocketseat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) developed with the following technologies:
 
 <details>
   <summary>:information_source:  See more about API technologies</summary>
